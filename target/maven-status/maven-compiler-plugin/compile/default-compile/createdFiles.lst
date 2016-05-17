@@ -1,0 +1,5 @@
+com/latihan/poligon/domain/peserta.class
+com/latihan/poligon/controller/HalloController.class
+com/latihan/poligon/App.class
+com/latihan/poligon/service/pesertaDao.class
+com/latihan/poligon/controller/pesertaController.class
